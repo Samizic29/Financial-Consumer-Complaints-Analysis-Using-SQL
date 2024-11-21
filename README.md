@@ -11,6 +11,13 @@
 ## About Data
 > Analyze consumer complaints data to identify trends, assess timely responses by companies, and highlight key areas for improvement in customer service.
 
+## Tool Used
+> MySQL was used to query this SQL project. The areas of SQL covered in this case study:
+- Aggregate Functions
+- Window Functions
+- Common Table Expressions
+- Date Functions
+
 ## Data Preparation
 > The data import was done using MySQL Workbench. I created a database schema and table for data import in csv file. The table was constraints to its csv file. It consists of 62,516 rows and 12 columns.
 
