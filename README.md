@@ -32,7 +32,7 @@
 -	Top 5 Issues for Each of the Top 5 Products
 
 ### Trends Over Time
-> Analysis the seasonal patterns of trends of the consumer complaints
+> Analysis the seasonal trends and  patterns in consumer complaints
 - Consumer Complaints by year, day of the week
 
 ### Timely Response Analysis
